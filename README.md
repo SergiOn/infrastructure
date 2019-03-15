@@ -42,3 +42,9 @@ https://www.udemy.com/draft/1522024/
 ##### About this course
 
 Kubernetes from the ground up, deploy and scale performant, and reliable containerized applications with Kubernetes
+
+#### Links
+
+https://github.com/SergiOn/kubernetes-demo
+
+https://github.com/LevelUpEducation/kubernetes-demo
