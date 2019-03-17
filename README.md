@@ -53,3 +53,5 @@ https://github.com/LevelUpEducation/kubernetes-demo
 https://github.com/SergiOn/dockerapp
 
 https://github.com/jleetutorial/dockerapp
+
+https://aws.amazon.com/ru/blogs/aws/amazon-eks-now-generally-available/
