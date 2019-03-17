@@ -38,6 +38,7 @@ https://github.com/golonzovsky/kubernetes-in-action
 ## Kubernetes Course from a DevOps guru (Kubernetes + Docker)
 
 https://www.udemy.com/draft/1522024/
+https://www.udemy.com/kubernetes-from-a-devops-kubernetes-guru/
 
 ##### About this course
 
@@ -48,3 +49,7 @@ Kubernetes from the ground up, deploy and scale performant, and reliable contain
 https://github.com/SergiOn/kubernetes-demo
 
 https://github.com/LevelUpEducation/kubernetes-demo
+
+https://github.com/SergiOn/dockerapp
+
+https://github.com/jleetutorial/dockerapp
