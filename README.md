@@ -55,3 +55,9 @@ https://github.com/SergiOn/dockerapp
 https://github.com/jleetutorial/dockerapp
 
 https://aws.amazon.com/ru/blogs/aws/amazon-eks-now-generally-available/
+
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
+https://www.mirantis.com/blog/introduction-to-yaml-creating-a-kubernetes-deployment/
+
+https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-apiversion-definition-guide.html
