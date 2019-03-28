@@ -61,3 +61,16 @@ https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 https://www.mirantis.com/blog/introduction-to-yaml-creating-a-kubernetes-deployment/
 
 https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-apiversion-definition-guide.html
+
+
+## Intro to Istio-Service Mesh for Cloud-Native Kubernetes Apps
+
+https://www.udemy.com/istio-service-mesh-for-cloud-native-apps-on-kubernetes/
+
+##### About this course
+
+Simplifying the complexity of managing polyglot and microservices-based, cloud-native applications
+
+#### Links
+
+https://github.com/istio/istio/releases
