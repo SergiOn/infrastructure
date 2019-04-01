@@ -78,3 +78,7 @@ https://github.com/istio/istio/releases
 https://istio.io/docs/concepts/security/
 
 https://istio.io/docs/examples/bookinfo/
+
+https://istio.io/docs/concepts/traffic-management/
+
+https://istio.io/docs/tasks/traffic-management/request-routing/
