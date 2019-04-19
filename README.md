@@ -38,6 +38,7 @@ https://github.com/golonzovsky/kubernetes-in-action
 ## Kubernetes Course from a DevOps guru (Kubernetes + Docker)
 
 https://www.udemy.com/draft/1522024/
+
 https://www.udemy.com/kubernetes-from-a-devops-kubernetes-guru/
 
 ##### About this course
@@ -82,3 +83,12 @@ https://istio.io/docs/examples/bookinfo/
 https://istio.io/docs/concepts/traffic-management/
 
 https://istio.io/docs/tasks/traffic-management/request-routing/
+
+
+## Master Jenkins CI For DevOps and Developers
+
+https://www.udemy.com/draft/1034400/
+
+##### About this course
+
+Learn how to build automated continuous integration pipeline with Jenkins. Take your DevOps skills to the next level.
