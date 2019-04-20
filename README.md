@@ -92,3 +92,9 @@ https://www.udemy.com/draft/1034400/
 ##### About this course
 
 Learn how to build automated continuous integration pipeline with Jenkins. Take your DevOps skills to the next level.
+
+#### Links
+
+https://github.com/SergiOn/maven-project
+
+https://github.com/jleetutorial/maven-project
