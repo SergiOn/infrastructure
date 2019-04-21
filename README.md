@@ -98,3 +98,20 @@ Learn how to build automated continuous integration pipeline with Jenkins. Take 
 https://github.com/SergiOn/maven-project
 
 https://github.com/jleetutorial/maven-project
+
+#### Files
+
+Password:
+
+``
+/Users/Shared/Jenkins/Home/secrets/initialAdminPassword
+``
+
+``
+sudo less /Users/Shared/Jenkins/Home/secrets/initialAdminPassword
+``
+
+``
+To log in, use the username: "admin" and the administrator
+password you used to access the setup wizard.
+``
