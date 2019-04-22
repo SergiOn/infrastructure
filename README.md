@@ -89,6 +89,8 @@ https://istio.io/docs/tasks/traffic-management/request-routing/
 
 https://www.udemy.com/draft/1034400/
 
+https://www.udemy.com/the-complete-jenkins-course-for-developers-and-devops
+
 ##### About this course
 
 Learn how to build automated continuous integration pipeline with Jenkins. Take your DevOps skills to the next level.
