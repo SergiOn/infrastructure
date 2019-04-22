@@ -99,6 +99,12 @@ https://github.com/SergiOn/maven-project
 
 https://github.com/jleetutorial/maven-project
 
+https://apple.stackexchange.com/questions/272657/how-can-i-kill-the-jenkins-process
+
+https://gist.github.com/SergiOn/63101989f2b87be80027c7056eba3bce
+
+https://gist.github.com/ehuynh/2572398
+
 #### Files
 
 Password:
@@ -114,4 +120,16 @@ sudo less /Users/Shared/Jenkins/Home/secrets/initialAdminPassword
 ``
 To log in, use the username: "admin" and the administrator
 password you used to access the setup wizard.
+``
+
+#### start
+
+``
+sudo launchctl load /Library/LaunchDaemons/org.jenkins-ci.plist
+``
+
+#### stop
+
+``
+sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
 ``
