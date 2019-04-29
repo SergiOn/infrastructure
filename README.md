@@ -135,3 +135,12 @@ sudo launchctl load /Library/LaunchDaemons/org.jenkins-ci.plist
 ``
 sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
 ``
+
+
+## Mastering Jenkins CI with Amazon AWS: Build DevOps Pipeline
+
+https://www.udemy.com/jenkins-ci-aws/
+
+##### About this course
+
+Implement and integrate Jenkins continuous integration CI with Amazon AWS Beanstalk using Github. DevOps in action
