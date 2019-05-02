@@ -144,3 +144,12 @@ https://www.udemy.com/jenkins-ci-aws/
 ##### About this course
 
 Implement and integrate Jenkins continuous integration CI with Amazon AWS Beanstalk using Github. DevOps in action
+
+
+## Jenkins, From Zero To Hero: Become a DevOps Jenkins Master
+
+https://www.udemy.com/jenkins-from-zero-to-hero/
+
+##### About this course
+
+Become a DevOps Master learning Jenkins & integrations with powerful tools like Docker, Ansible, AWS, GIT & more!
