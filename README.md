@@ -166,3 +166,9 @@ Build, compose, deploy, and manage Docker containers from development to DevOps 
 #### Links
 
 https://github.com/bretfisher/udemy-docker-mastery
+
+https://www.udemy.com/docker-mastery/learn/lecture/7655244#questions/4020880
+
+https://www.udemy.com/docker-mastery/learn/lecture/7655244#questions/5390204
+
+https://www.udemy.com/docker-mastery/learn/lecture/7655244#questions/3446126
