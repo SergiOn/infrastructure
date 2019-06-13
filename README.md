@@ -153,3 +153,16 @@ https://www.udemy.com/jenkins-from-zero-to-hero/
 ##### About this course
 
 Become a DevOps Master learning Jenkins & integrations with powerful tools like Docker, Ansible, AWS, GIT & more!
+
+
+## Docker Mastery: The Complete Toolset From a Docker Captain
+
+https://www.udemy.com/docker-mastery/
+
+##### About this course
+
+Build, compose, deploy, and manage Docker containers from development to DevOps based Swarm clusters
+
+#### Links
+
+https://github.com/bretfisher/udemy-docker-mastery
