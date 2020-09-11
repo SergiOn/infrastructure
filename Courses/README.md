@@ -2,9 +2,9 @@
 
 ## Kubernetes Course from a DevOps guru (Kubernetes + Docker)
 
-https://www.udemy.com/draft/1522024/
+https://www.udemy.com/draft/1522024
 
-https://www.udemy.com/kubernetes-from-a-devops-kubernetes-guru/
+https://www.udemy.com/kubernetes-from-a-devops-kubernetes-guru
 
 #### About
 
@@ -20,18 +20,18 @@ https://github.com/SergiOn/dockerapp
 
 https://github.com/jleetutorial/dockerapp
 
-https://aws.amazon.com/ru/blogs/aws/amazon-eks-now-generally-available/
+https://aws.amazon.com/ru/blogs/aws/amazon-eks-now-generally-available
 
-https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+https://kubernetes.io/docs/reference/kubectl/cheatsheet
 
-https://www.mirantis.com/blog/introduction-to-yaml-creating-a-kubernetes-deployment/
+https://www.mirantis.com/blog/introduction-to-yaml-creating-a-kubernetes-deployment
 
 https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-apiversion-definition-guide.html
 
 
 ## Intro to Istio-Service Mesh for Cloud-Native Kubernetes Apps
 
-https://www.udemy.com/istio-service-mesh-for-cloud-native-apps-on-kubernetes/
+https://www.udemy.com/istio-service-mesh-for-cloud-native-apps-on-kubernetes
 
 #### About
 
@@ -41,18 +41,18 @@ Simplifying the complexity of managing polyglot and microservices-based, cloud-n
 
 https://github.com/istio/istio/releases
 
-https://istio.io/docs/concepts/security/
+https://istio.io/docs/concepts/security
 
-https://istio.io/docs/examples/bookinfo/
+https://istio.io/docs/examples/bookinfo
 
-https://istio.io/docs/concepts/traffic-management/
+https://istio.io/docs/concepts/traffic-management
 
-https://istio.io/docs/tasks/traffic-management/request-routing/
+https://istio.io/docs/tasks/traffic-management/request-routing
 
 
 ## Master Jenkins CI For DevOps and Developers
 
-https://www.udemy.com/draft/1034400/
+https://www.udemy.com/draft/1034400
 
 https://www.udemy.com/the-complete-jenkins-course-for-developers-and-devops
 
@@ -97,7 +97,7 @@ sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
 
 ## Mastering Jenkins CI with Amazon AWS: Build DevOps Pipeline
 
-https://www.udemy.com/jenkins-ci-aws/
+https://www.udemy.com/jenkins-ci-aws
 
 #### About
 
@@ -106,7 +106,7 @@ Implement and integrate Jenkins continuous integration CI with Amazon AWS Beanst
 
 ## Jenkins, From Zero To Hero: Become a DevOps Jenkins Master
 
-https://www.udemy.com/jenkins-from-zero-to-hero/
+https://www.udemy.com/jenkins-from-zero-to-hero
 
 #### About
 
@@ -115,7 +115,7 @@ Become a DevOps Master learning Jenkins & integrations with powerful tools like 
 
 ## Docker Mastery: The Complete Toolset From a Docker Captain
 
-https://www.udemy.com/docker-mastery/
+https://www.udemy.com/docker-mastery
 
 #### About
 
@@ -130,3 +130,13 @@ https://www.udemy.com/docker-mastery/learn/lecture/7655244#questions/4020880
 https://www.udemy.com/docker-mastery/learn/lecture/7655244#questions/5390204
 
 https://www.udemy.com/docker-mastery/learn/lecture/7655244#questions/3446126
+
+
+## Terraform с Нуля до Профессионала
+
+https://www.udemy.com/course/rus-terraform
+
+#### About
+
+Terraform - Программирование Инфраструктуры AWS
+
