@@ -140,3 +140,12 @@ https://www.udemy.com/course/rus-terraform
 
 Terraform - Программирование Инфраструктуры AWS
 
+
+## Learn DevOps: Infrastructure Automation With Terraform
+
+https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform
+
+#### About
+
+Learn how to automate your infrastructure with terraform. Covers Terraform with AWS, Packer, Docker, ECS, EKS, Jenkins
+
