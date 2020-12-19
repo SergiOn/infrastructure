@@ -52,6 +52,10 @@ cat terraform.tfstate
 
 * List of AMIs for ubuntu: https://cloud-images.ubuntu.com/locator/ec2/ (hint: make sure not to pick arm64 if you're on amd64)
 
+#### Links
+
+http://cloud-images.ubuntu.com/locator/ec2/
+
 #### Section 3
 
 ##### Lecture 8
