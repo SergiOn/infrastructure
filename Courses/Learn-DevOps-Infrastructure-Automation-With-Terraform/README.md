@@ -52,3 +52,26 @@ cat terraform.tfstate
 
 * List of AMIs for ubuntu: https://cloud-images.ubuntu.com/locator/ec2/ (hint: make sure not to pick arm64 if you're on amd64)
 
+#### Section 3
+
+##### Lecture 8
+```shell
+vim main.tf
+terraform console
+
+var.myvar
+"${var.myvar}"
+
+var.mymap
+"${var.mymap}"
+var.mymap["mykey"]
+"${var.mymap["mykey"]}"
+
+var.mylist
+"${var.mylist}"
+var.mylist[0]
+"${var.mylist[0]}"
+element(var.mylist, 0)
+slice(var.mylist, 0, 2)
+```
+
